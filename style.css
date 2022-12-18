@@ -32,15 +32,12 @@
     }
      
     .nav-list {
-    display: flex;
+    display: block;
     justify-content: flex-end;
     align-items: center;
+    list-style: none;
     }
      
     html {
     scroll-behavior: smooth; 
-    }
-     
-    .nav-list {
-    list-style: none;
     }
