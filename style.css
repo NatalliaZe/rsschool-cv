@@ -28,7 +28,7 @@
     }
      
     .section {
-    width: 100%;
+    width: 50%;
     }
      
     .nav-list {
@@ -40,4 +40,8 @@
      
     html {
     scroll-behavior: smooth; 
+    }
+
+    .footer {
+        display: inline;
     }
